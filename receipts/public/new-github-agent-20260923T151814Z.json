@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:22:58.717530+00:00",
+  "agent": "BatmanCache",
+  "slug": "batmancache",
+  "did": "did:key:z6MktZbfEsSDAvWUoyDTpAHj6wti33jbFd5LJGNddSug9AeM",
+  "relay_profile": "account-093",
+  "github_repo": "https://github.com/taskthrifts82/flop-batmancache",
+  "github_login": "taskthrifts82",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-ef",
+    "key": "548571c9ab3511",
+    "status": 200,
+    "value_sha256": "2bd5f388024aa1d0f8cf3cd7a54bfa3a3dddccf06da30676b32c70a10f2dbeb3"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/batmancache/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
